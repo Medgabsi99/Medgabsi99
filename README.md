@@ -84,22 +84,16 @@ const Mohamed = {
 
 <div align="center">
 
-<img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=Medgabsi99&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4FC3F7&icon_color=4FC3F7&text_color=ffffff&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=Medgabsi99&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4FC3F7&text_color=ffffff&langs_count=8" height="180" alt="Top Languages"/>
+<img src="https://img.shields.io/github/followers/Medgabsi99?label=Followers&style=for-the-badge&logo=github&color=0d6efd&labelColor=0d1117" />
+&nbsp;
+<img src="https://img.shields.io/github/stars/Medgabsi99?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github&color=0d6efd&labelColor=0d1117&label=Total%20Stars" />
+&nbsp;
+<img src="https://img.shields.io/badge/Contributions%20Since%202022-262%2B-0d6efd?style=for-the-badge&logo=github&labelColor=0d1117" />
 
-<br/>
+<br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=Medgabsi99&theme=tokyonight&hide_border=true&background=0d1117&stroke=4FC3F7&ring=4FC3F7&fire=FF6B6B&currStreakLabel=4FC3F7" alt="GitHub Streak"/>
 
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Medgabsi99&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=4FC3F7&line=4FC3F7&point=FF6B6B" alt="Contribution Graph"/>
 </div>
 
 ---
