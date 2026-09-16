@@ -84,9 +84,9 @@ const Mohamed = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Medgabsi99&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4FC3F7&icon_color=4FC3F7&text_color=ffffff&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats"/>
+<img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=Medgabsi99&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4FC3F7&icon_color=4FC3F7&text_color=ffffff&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Medgabsi99&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4FC3F7&text_color=ffffff&langs_count=8" height="180" alt="Top Languages"/>
+<img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=Medgabsi99&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4FC3F7&text_color=ffffff&langs_count=8" height="180" alt="Top Languages"/>
 
 <br/>
 
@@ -96,10 +96,10 @@ const Mohamed = {
 
 ---
 
-## 🏆 GitHub Trophies
+## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Medgabsi99&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="GitHub Trophies"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Medgabsi99&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=4FC3F7&line=4FC3F7&point=FF6B6B" alt="Contribution Graph"/>
 </div>
 
 ---
@@ -128,10 +128,7 @@ const Mohamed = {
 
 ---
 
-<!-- Snake Contribution Graph -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Medgabsi99/Medgabsi99/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
+
 
 <!-- Animated Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
