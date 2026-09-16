@@ -1,82 +1,108 @@
-<div align="center">
+﻿<!-- HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Mohamed%20Laroussi%20Gabsi&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Building%20what%20matters&descAlignY=58&descSize=17&animation=fadeIn" width="100%" />
 
-<!-- Animated Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Mohamed%20Laroussi%20Gabsi&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Building%20what%20matters&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
+<!-- HERO: two-column layout -->
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="55%" valign="top">
 
-<!-- Typing SVG -->
+### 👋 Hey, I am Mohamed!
+
 <a href="https://portfolio-mohamed-gabsi.vercel.app/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4FC3F7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;Python+%7C+TypeScript+%7C+JavaScript;React+%7C+Next.js+%7C+Node.js+%7C+Docker;Turning+complex+ideas+into+clean+code+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=4FC3F7&vCenter=true&width=480&lines=Full-Stack+Developer+%F0%9F%9A%80;Python+%7C+TypeScript+%7C+JavaScript;React+%7C+Next.js+%7C+NestJS+%7C+Docker;Clean+code%2C+scalable+systems+%E2%9C%A8" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Profile Views & Followers -->
-<img src="https://komarev.com/ghpvc/?username=Medgabsi99&style=for-the-badge&color=0d6efd&label=PROFILE+VIEWS" alt="Profile Views"/>
+📍 **Tunisia** | 💼 **Full-Stack Developer** | 🌐 [**Portfolio**](https://portfolio-mohamed-gabsi.vercel.app/)
+
+<br/>
+
+> I craft end-to-end digital experiences from pixel-perfect UIs to robust, scalable APIs.
+> I thrive at the intersection of clean architecture and great user experience.
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Medgabsi99&style=flat-square&color=0d6efd&label=Profile+Views" />
 &nbsp;
 <a href="https://github.com/Medgabsi99?tab=followers">
-  <img src="https://img.shields.io/github/followers/Medgabsi99?label=Followers&style=for-the-badge&color=0d6efd&logo=github" alt="Followers"/>
+  <img src="https://img.shields.io/github/followers/Medgabsi99?label=Followers&style=flat-square&color=0d6efd&logo=github" />
 </a>
 
-</div>
+</td>
+<td width="45%" align="center" valign="center">
+
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="320" alt="Coding GIF" />
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 👨‍💻 About Me
+## 👨💻 About Me
 
 ```typescript
 const Mohamed = {
-  name:       "Mohamed Laroussi Gabsi",
-  role:       "Full-Stack Developer",
-  location:   "Tunisia 🇹🇳",
-  languages:  ["Python", "TypeScript", "JavaScript", "SQL"],
+  name:         "Mohamed Laroussi Gabsi",
+  role:         "Full-Stack Developer",
+  location:     "Tunisia",
+  languages:    ["Python", "TypeScript", "JavaScript", "SQL"],
   stack: {
-    frontend: ["React", "Next.js", "TailwindCSS"],
-    backend:  ["Node.js", "Express", "NestJS"],
-    database: ["PostgreSQL", "MySQL", "MongoDB"],
-    devops:   ["Docker", "Kubernetes", "GitHub Actions"],
+    frontend:   ["React", "Next.js", "TailwindCSS"],
+    backend:    ["Node.js", "Express", "NestJS"],
+    database:   ["PostgreSQL", "MySQL", "MongoDB"],
+    devops:     ["Docker", "Kubernetes", "GitHub Actions"],
   },
   currentFocus: "Building scalable full-stack applications",
 };
 ```
 
-> 🎯 I'm a passionate Full-Stack Developer who loves crafting end-to-end digital experiences — from pixel-perfect UIs to robust, scalable APIs. I thrive at the intersection of clean architecture and great user experience, and I'm always exploring new tools that push the boundaries of what's possible on the web.
+<details>
+<summary>📖 <b>More about me</b></summary>
+<br/>
+
+- 🔭 Currently focused on building **full-stack web applications** with modern tooling
+- 🌱 Always learning — currently diving deeper into **DevOps** and **cloud-native** architecture
+- 🤝 Open to collaborating on interesting **open-source** projects
+- 💬 Ask me about **React, Next.js, Node.js, Python, or Docker**
+- 📫 Reach me at **gabsimedlaroussi21@gmail.com**
+
+</details>
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💬 Languages
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
-
-### 🎨 Frontend
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-</p>
-
-### ⚙️ Backend & Databases
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-</p>
-
-### 🚀 DevOps & Tools
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-</p>
+<table>
+  <tr>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=python" width="48"/><br/>Python</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=typescript" width="48"/><br/>TypeScript</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=javascript" width="48"/><br/>JavaScript</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=react" width="48"/><br/>React</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nextjs" width="48"/><br/>Next.js</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=tailwind" width="48"/><br/>Tailwind</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nodejs" width="48"/><br/>Node.js</td>
+  </tr>
+  <tr>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=express" width="48"/><br/>Express</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nestjs" width="48"/><br/>NestJS</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=postgres" width="48"/><br/>PostgreSQL</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mysql" width="48"/><br/>MySQL</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mongodb" width="48"/><br/>MongoDB</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=docker" width="48"/><br/>Docker</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=kubernetes" width="48"/><br/>Kubernetes</td>
+  </tr>
+  <tr>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=githubactions" width="48"/><br/>Actions</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=git" width="48"/><br/>Git</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=linux" width="48"/><br/>Linux</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vscode" width="48"/><br/>VS Code</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vercel" width="48"/><br/>Vercel</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=github" width="48"/><br/>GitHub</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=postman" width="48"/><br/>Postman</td>
+  </tr>
+</table>
 
 ---
 
@@ -118,11 +144,11 @@ const Mohamed = {
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
+<br/><br/>
+
+*Feel free to reach out — I am always happy to connect, collaborate, or just chat tech!*
+
 </div>
 
----
-
-
-
-<!-- Animated Footer -->
+<!-- FOOTER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
